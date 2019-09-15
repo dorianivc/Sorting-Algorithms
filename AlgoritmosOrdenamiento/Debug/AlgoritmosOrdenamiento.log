@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Monica\Documents\Dorian\2do Semestre 2019\Estructuras de Datos\Algoritmos de Ordenamiento\AlgoritmosOrdenamiento\AlgoritmosOrdenamiento\InterchangeSort.h(13,7): warning C4101:  'i': variable local sin referencia
+C:\Users\Monica\Documents\Dorian\2do Semestre 2019\Estructuras de Datos\Algoritmos de Ordenamiento\AlgoritmosOrdenamiento\AlgoritmosOrdenamiento\Main.cpp(8,12): warning C4244:  'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  AlgoritmosOrdenamiento.vcxproj -> C:\Users\Monica\Documents\Dorian\2do Semestre 2019\Estructuras de Datos\Algoritmos de Ordenamiento\AlgoritmosOrdenamiento\Debug\AlgoritmosOrdenamiento.exe
